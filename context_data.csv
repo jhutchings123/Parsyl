@@ -1,0 +1,37 @@
+location,make,model
+HF 33,make_1,ABC 3591 AC
+Depot 36,make_1,ABC 4123 AC
+Depot 12,make_1,ABC 4123 AC
+Depot 16,make_1,ABC 4123 AC
+Depot 24,,
+Depot 32,make_1,ABC 4123 AC
+Depot 4,make_1,ABC 4123 AC
+Depot 28,make_1,ABC 4123 AC
+Depot 8,make_1,ABC 4123 AC
+Depot 20,,
+HF 34,make_5,LLL 088 RF AC
+HF 17,,
+HF 14,make_1,ABC 65 SDD
+HF 18,,
+HF 21,,
+HF 23,,
+PS 26,make_1,ABC 65 SDD
+PS 35,make_1,ABC 3591 AC
+PS 30,make_3,
+PS 11,make_1,ABC 65 SDD
+PS 27,make_5,
+PS 1,make_2,DEF75EG
+PS 29,make_1,ABC 3591 AC
+PS 25,make_1,ABC 3591 AC
+PS 9,make_1,ABC 65 SDD
+PS 5,make_3,XY345
+HF 6,make_2,DEF75EG
+PS 10,make_2,DEF75EG
+PS 19,make_1,ABC 65 SDD
+PS 7,make_2,DEF75EG
+PS 31,,
+HF 3,make_2,DEF75EG
+PS 13,make_1,ABC 65 SDD
+HF 2,make_2,DEF75EG
+HF 22,,
+HF 15,make_4,TBD

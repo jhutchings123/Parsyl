@@ -1,0 +1,9 @@
+{"region_1": {"district_1": ["PS 1", "HF 2", "HF 3", "Depot 4"],
+  "district_2": ["PS 5", "HF 6", "PS 7", "Depot 8"],
+  "district_3": ["PS 9", "PS 10", "PS 11", "Depot 12"]},
+ "region_2": {"district_4": ["PS 13", "HF 14", "HF 15", "Depot 16"],
+  "district_5": ["HF 17", "HF 18", "PS 19", "Depot 20"],
+  "district_6": ["HF 21", "HF 22", "HF 23", "Depot 24"]},
+ "region_3": {"district_7": ["PS 25", "PS 26", "PS 27", "Depot 28"],
+  "district_8": ["PS 29", "PS 30", "PS 31", "Depot 32"],
+  "district_9": ["HF 33", "HF 34", "PS 35", "Depot 36"]}}
